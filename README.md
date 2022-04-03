@@ -13,9 +13,9 @@ We have two main tsv files that you can download [here](URL 'http://mtg.upf.edu/
 The dataset regroups the whole listening habits (Jan, 27th 2008 till May, 5th 2009) for nearly 1,000 users, regrouping 19,150,868 logs.
 
 ## TODO LIST 💻
-* Optimize the *get_only_top* function (too long) - if not possibile run it once and save in a file on a public drive - ❌
-* Create new track-ids and artist-id with uuid library (some are missing and could make the *get_only_top* function faster) ❌
-* Add the part of the day (morning / afternoon / night) or part of the week (week end / week day) nodes ❌
+* **4 april** Optimize the *get_only_top* function (too long) - if not possibile run it once and save in a file on a public drive - ❌
+* **4 april** Create new track-ids and artist-id with uuid library (some are missing and could make the *get_only_top* function faster) ❌
+* **4 april** Add the part of the day (morning / afternoon / night) or part of the week (week end / week day) nodes ❌
 * Implement the different methods of the paper (select which method to try) ❌
 * Compare results ❌
 * Write the report ❌
