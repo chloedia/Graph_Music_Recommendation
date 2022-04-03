@@ -20,6 +20,6 @@ The dataset regroups the whole listening habits (Jan, 27th 2008 till May, 5th 20
 * Compare results ❌
 * Write the report ❌
 
-## TO DO IF EXTRA TIME
+## TO DO IF EXTRA TIME ⌚️
 * Recreate a more recent dataset with the same data architecture using the [Last.fm](URL 'https://www.last.fm/api/show/user.getRecentTracks') API ❌
 
