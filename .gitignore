@@ -4,3 +4,5 @@ __pycache__/
 # Distribution / packaging
 .lastfm-dataset-1K/
 
+lastfm-dataset-1K/userid-logs.tsv
+lastfm-dataset-1K/userid-profile.tsv
