@@ -1,7 +1,6 @@
+![cover](cover_MLNS.jpg)
 # Graph Music Recommendation 🎶 
 This is the repository of our Project for the Machine Learning for Network Science (MLNS) course from CentraleSupélec by Chloé Daems, Amir Mahmoudi & Anne-Claire Laisney.
-
-
 
 ## Motivations ✍️
 
