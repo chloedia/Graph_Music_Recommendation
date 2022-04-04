@@ -4,8 +4,8 @@ This is the repository of our Project for the Machine Learning for Network Scien
 
 ## Motivations ✍️
 
-We want to create a Recommendation System applied to music by using the notions seen in course. Our work was inspired by the *Katarya, R., Verma, O.P. Efficient music recommender system using context graph and particle swarm. Multimed Tools Appl 77, 2673–2687 (2018).* [paper](URL 'https://link.springer.com/article/10.1007/s11042-017-4447-x') which showed some great results. We are using the same dataset as them i.e. data fetched with the user.getRecentTracks request at the [Last.fm](URL 'https://www.last.fm/api/show/user.getRecentTracks') API. 
-We have two main tsv files that you can download [here](URL 'http://mtg.upf.edu/static/datasets/last.fm/lastfm-dataset-1K.tar.gz') :
+We want to create a Recommendation System applied to music by using the notions seen in course. Our work was inspired by the *Katarya, R., Verma, O.P. Efficient music recommender system using context graph and particle swarm. Multimed Tools Appl 77, 2673–2687 (2018).* [paper](https://link.springer.com/article/10.1007/s11042-017-4447-x) which showed some great results. We are using the same dataset as them i.e. data fetched with the user.getRecentTracks request at the [Last.fm](https://www.last.fm/api/show/user.getRecentTracks) API. 
+We have two main tsv files that you can download [here](http://mtg.upf.edu/static/datasets/last.fm/lastfm-dataset-1K.tar.gz) :
 
 * The *userid_profile.tsv* which regroups informations on the user (userid \t gender \t age \t country \t date of registration);
 * The *userid_ ... _logs.tsv* which regroups informations on the log (userid \t timestamp \t artist-id \t artist-name \t track-id \t track-name)
