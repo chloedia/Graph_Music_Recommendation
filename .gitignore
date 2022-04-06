@@ -10,3 +10,4 @@ lastfm-dataset-1K/userid-timestamp-artid-artname-traid-traname.tsv
 
 cover_MLNS.jpg
 lastfm-dataset-1K/user_id_logs_v2.tsv
+saved_data/train_user_top_logs.tsv
