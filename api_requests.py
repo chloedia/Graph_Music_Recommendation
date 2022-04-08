@@ -40,12 +40,10 @@ def get_tags(df):
 
 if __name__ == '__main__':
     ## call the function and store the returned data in the variable data
-    df = pd.read_csv('lastfm-dataset-1K/user_id_logs_v2.tsv',index_col=0)
-    df.drop('timestamp', axis=1, inplace=True)
-    df = df.drop_duplicates()
+    df = pd.read_csv('saved_data/new_track_df.tsv')
     #get the top tags
     tags = get_tags(df)
     df['tags'] = tags
-    df.to_csv('lastfm-dataset-1K/user_id_logs_v2_tags.tsv', sep='\t')
+    df.to_csv('saved_data/new_track_df.tsv')
     ## print the data
     print(tags)
