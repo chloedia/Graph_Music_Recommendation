@@ -12,14 +12,6 @@ We have two main tsv files that you can download [here](http://mtg.upf.edu/stati
 
 The dataset regroups the whole listening habits (Jan, 27th 2008 till May, 5th 2009) of nearly 1,000 users, regrouping 19,150,868 logs.
 
-## TODO LIST 💻
-* **4 april** Optimize the *get_only_top* function (too long) - if not possibile run it once and save in a file on a public drive - ✅
-* **4 april** Create new track-ids and artist-id with uuid library (some are missing and could make the *get_only_top* function faster) ✅
-* **4 april** Add the part of the day (morning / afternoon / night) or part of the week (week end / week day) nodes ❌
-* Implement the different methods of the paper (select which method to try) ❌
-* Compare results ❌
-* Write the report ❌
-
-## TO DO IF EXTRA TIME ⌚️
-* Recreate a more recent dataset with the same data architecture using the [Last.fm](https://www.last.fm/api/show/user.getRecentTracks) API ❌
+## VIDEO PRESENTATION 💻
+[Here](https://www.youtube.com/watch?v=lA3-o_CAF0s) you can find the link to our project presentation.
 
